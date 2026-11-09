@@ -1,5 +1,6 @@
 from Classes.Employee import Employee
-
+from Classes.Manager import Manager
+from Classes.Employee import Employee
 
 
 staff = [

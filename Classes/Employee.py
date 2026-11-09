@@ -10,7 +10,6 @@ class Employee:
     def salary(self)->int|float:
         return self.__salary
     
-    @salary.getter
     def monthly_cost(self)->int|float:
         return self.__salary
 
